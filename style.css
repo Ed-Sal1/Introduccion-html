@@ -1,0 +1,22 @@
+.fullPage {
+  overflow: hidden;
+  background-color: #8c8d8d;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.points{
+    color: rgb(228, 17, 17);
+}
+.page{
+    justify-items: center;
+}
+.Hobbies{
+    justify-items: center;
+}
+.Music{
+    justify-items: center;
+}
