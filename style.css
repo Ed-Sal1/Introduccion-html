@@ -20,3 +20,16 @@
 .Music{
     justify-items: center;
 }
+h1{
+    font-family:"Mountains of Christmas", serif; ;
+} 
+p{
+    font-family:"Bangers", system-ui;
+    font-size: 17px;
+}
+ul li{
+    font-family:"Bangers", system-ui;
+}
+ol li{
+    font-family:"Bangers", system-ui;
+}
